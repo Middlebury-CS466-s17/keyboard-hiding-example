@@ -54,14 +54,22 @@
 		BBDAB2E81E6DE8230064718B /* KeyboardTest */ = {
 			isa = PBXGroup;
 			children = (
-				BBDAB2E91E6DE8230064718B /* AppDelegate.swift */,
+				BBDAB2FB1E6DE8560064718B /* Supporting files */,
 				BBDAB2EB1E6DE8230064718B /* ViewController.swift */,
 				BBDAB2ED1E6DE8230064718B /* Main.storyboard */,
+			);
+			path = KeyboardTest;
+			sourceTree = "<group>";
+		};
+		BBDAB2FB1E6DE8560064718B /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				BBDAB2E91E6DE8230064718B /* AppDelegate.swift */,
 				BBDAB2F01E6DE8230064718B /* Assets.xcassets */,
 				BBDAB2F21E6DE8230064718B /* LaunchScreen.storyboard */,
 				BBDAB2F51E6DE8230064718B /* Info.plist */,
 			);
-			path = KeyboardTest;
+			name = "Supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
